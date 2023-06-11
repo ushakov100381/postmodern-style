@@ -1,0 +1,1 @@
+{"fact":"The cat's tail is used to maintain balance.","length":43}
