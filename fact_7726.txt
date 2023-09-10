@@ -1,0 +1,1 @@
+{"fact":"The richest cat is Blackie who was left \u00a315 million by his owner, Ben Rea.","length":74}
